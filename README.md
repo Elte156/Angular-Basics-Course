@@ -1,5 +1,9 @@
 # MyFirstApp
 
+## Udemy Course
+
+Created while following course: [Angular - The Complete Guide (2022 Edition)](https://www.udemy.com/share/101WgA3@JO36U_nm1DorQjb38bh6_ZPE9cJzFZGdfUIwVwsWAqlMJgNAewqPJgKYWdj_zXvn/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## Development server
