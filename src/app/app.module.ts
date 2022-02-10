@@ -6,6 +6,7 @@ import { ServerComponent } from './server/server.component';
 import { ServersComponent } from './servers/servers.component';
 import { AlertWarningComponent } from './alert-warning/alert-warning.component';
 import { AlertSuccessComponent } from './alert-success/alert-success.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { AlertSuccessComponent } from './alert-success/alert-success.component';
     AlertSuccessComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
